@@ -1,3 +1,9 @@
+**Hi, I'm iwnevaf!** 🚫🍎🥦
+As the name suggests, "I Will Never Eat Vegetables And Fruits."
+I know it's technically more natural to say "vegetables **or** fruits" in English, but my English wasn't perfect when I chose this ID!
+
+To be exact, I _can_ eat some vegetables. You can check the specific logic behind my picky eating in the following Rust code:
+
 ```rust
 fn eat(f: Food) -> Result<(), ()> {
   match f.category {
